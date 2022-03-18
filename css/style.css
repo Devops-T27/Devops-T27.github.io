@@ -51,3 +51,14 @@ h3{
 	font-weight: 800;
 	color: white;
 }
+footer{
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+	font-size: 18px;
+	font-weight: 600;
+	background: #c6a97c;
+	padding: 10px;
+	font-family:cursive;
+	color: whitesmoke;
+}
