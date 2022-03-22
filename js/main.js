@@ -46,4 +46,3 @@ function AddForme(postion) {
 	}
 	}
 }
-//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//access token
