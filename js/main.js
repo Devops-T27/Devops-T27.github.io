@@ -9,6 +9,11 @@ function makewinner(p1,p2,p3){
 	b1.className="bwin";
 	b2.className="bwin";
 	b3.className="bwin";
+	Swal.fire(
+        'Good job!',
+        'We Have a Winner!',
+        'success'
+      )
 }
 function check(){
 	let b1 = document.querySelector("#b1");
